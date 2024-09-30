@@ -9,6 +9,6 @@ public class Main {
     }
 	
    public static void mostrarMensajeGitHub(){
-    	System.out.println("Esto ha sido hecho en una clase de GitHub");
+    	System.out.println("esto ha sido hecho en una clase de GitHub");
     }
 }
